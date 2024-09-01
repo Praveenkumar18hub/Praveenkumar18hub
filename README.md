@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar18hub&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumar18hub" /> </p>
 
-- 🔭 Leveling up my career, **exploring new technologies 🔍, and aiming for new horizons.**
+- **🔭 Leveling up my career, exploring new technologies 🔍, and aiming for new horizons.**
 
-- 🎯 I’m currently learning **Full-Stack, DevOps and exploring advanced algorithms to sharpen my problem-solving skills.**
+- **🎯 I’m currently learning Full-Stack, DevOps and exploring advanced algorithms to sharpen my problem-solving skills.**
 
-- ⚡ Fun fact **A year ago, I wasn’t into coding at all. Fast forward to now—I’m deep into the tech world, mastering code, and who knows where this journey will take me! 🤔**
+- **⚡ A year ago, I wasn’t into coding at all. Fast forward to now—I’m deep into the tech world, mastering code, and who knows where this journey will take me! 🤔**
 
-<h3 align="left">Want to know more 🧐:</h3>
+<h3 align="left">Want to know more 🤝:</h3>
 
 <p align="left">
 <a href="https://twitter.com/praveen_1818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveen_1818" height="30" width="40" /></a>
